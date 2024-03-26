@@ -1,0 +1,2 @@
+# GPT_CLIENT_BASE_QT
+基于Qt写的AIGC客户端
